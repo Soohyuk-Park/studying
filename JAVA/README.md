@@ -19,3 +19,5 @@
 [객체의 생성과 메모리 할당](https://www.google.com/search?q=%EA%B0%9D%EC%B2%B4%EC%9D%98+%EC%83%9D%EC%84%B1%EA%B3%BC+%EB%A9%94%EB%AA%A8%EB%A6%AC+%ED%95%A0%EB%8B%B9&oq=%EA%B0%9D%EC%B2%B4%EC%9D%98+%EC%83%9D%EC%84%B1%EA%B3%BC+%EB%A9%94%EB%AA%A8%EB%A6%AC+%ED%95%A0%EB%8B%B9&aqs=chrome..69i57j0i512l9.4278j0j7&sourceid=chrome&ie=UTF-8)
 [Arrays.asList() not working as it should?](https://stackoverflow.com/questions/1467913/arrays-aslist-not-working-as-it-should)
 [[Java]Arrays.asList(int[]) 의 잘못된 사용](https://leeborn.tistory.com/entry/Java-Arrays-asList%EC%9D%98-%EC%9E%98%EB%AA%BB%EB%90%9C-%EC%82%AC%EC%9A%A9)
+
+[Java 8 Stream API 자습서](https://recordsoflife.tistory.com/269)

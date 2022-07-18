@@ -1,5 +1,5 @@
 # 220717 공부
-<img src="../assets/2207/0717start.jpg"></img>
+<img src="../assets/picture001/picture071901.jpg"></img>
 ```
 해가 지고, 하루를 마친다. 필멸의 땅 위에 서있는 자들에게 남겨진 조언은
 길을 잃었다.
