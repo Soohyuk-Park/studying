@@ -1,8 +1,12 @@
-# 공부한 내용 or 공부할 내용을 기록합니다.
+# 유용한 링크들을 모아두자
 
-## 자바
 
-#### 스트림
+#### 취업 후기
+[카카오 페이 취업후기](https://velog.io/@dls4585/%EC%B7%A8%EC%97%85-%EC%88%98%EA%B8%B0-2022-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B3%B5%EC%B1%84-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EC%B1%84%EC%9A%A9-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%8E%98%EC%9D%B4)
+\
+\
+</br>
+#### 자바 스트림
 [자바 스트림 정리 by me](https://github.com/Soohyuk-Park/studying/blob/main/2207/220717study.md)
 
 [자바 스트림의 효율성에 대하여](https://jypthemiracle.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
